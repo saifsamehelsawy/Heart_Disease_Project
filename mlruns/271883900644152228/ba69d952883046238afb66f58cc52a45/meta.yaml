@@ -1,0 +1,14 @@
+artifact_uri: file:///home/claude/Heart_Disease_Project/notebook/../mlruns/271883900644152228/ba69d952883046238afb66f58cc52a45/artifacts
+end_time: 1778242283109
+entry_point_name: ''
+experiment_id: '271883900644152228'
+lifecycle_stage: active
+run_id: ba69d952883046238afb66f58cc52a45
+run_name: RandomForest_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778242274269
+status: 3
+tags: []
+user_id: ascom

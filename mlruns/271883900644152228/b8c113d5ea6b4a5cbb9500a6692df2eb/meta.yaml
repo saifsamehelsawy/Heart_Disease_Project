@@ -1,0 +1,14 @@
+artifact_uri: file:///home/claude/Heart_Disease_Project/notebook/../mlruns/271883900644152228/b8c113d5ea6b4a5cbb9500a6692df2eb/artifacts
+end_time: 1778229037330
+entry_point_name: ''
+experiment_id: '271883900644152228'
+lifecycle_stage: active
+run_id: b8c113d5ea6b4a5cbb9500a6692df2eb
+run_name: RandomForest_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778229035156
+status: 3
+tags: []
+user_id: root

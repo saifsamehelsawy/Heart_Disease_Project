@@ -1,0 +1,14 @@
+artifact_uri: file:///home/claude/Heart_Disease_Project/notebook/../mlruns/271883900644152228/fac2cd89176c49669a66d7a02b412e26/artifacts
+end_time: 1778241706491
+entry_point_name: ''
+experiment_id: '271883900644152228'
+lifecycle_stage: active
+run_id: fac2cd89176c49669a66d7a02b412e26
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778241697759
+status: 3
+tags: []
+user_id: ascom

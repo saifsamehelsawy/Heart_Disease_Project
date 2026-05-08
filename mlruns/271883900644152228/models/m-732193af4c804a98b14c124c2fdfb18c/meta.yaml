@@ -1,0 +1,10 @@
+artifact_location: file:///home/claude/Heart_Disease_Project/notebook/../mlruns/271883900644152228/models/m-732193af4c804a98b14c124c2fdfb18c/artifacts
+creation_timestamp: 1778241420178
+experiment_id: '271883900644152228'
+last_updated_timestamp: 1778241429455
+model_id: m-732193af4c804a98b14c124c2fdfb18c
+model_type: null
+name: model
+source_run_id: a77e0710aa6748cfb6f64329bba11d7b
+status: 2
+status_message: null

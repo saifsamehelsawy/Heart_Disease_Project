@@ -1,0 +1,14 @@
+artifact_uri: file:///home/claude/Heart_Disease_Project/notebook/../mlruns/271883900644152228/d6f946e14c884edea6d3e3057b111abd/artifacts
+end_time: 1778231654517
+entry_point_name: ''
+experiment_id: '271883900644152228'
+lifecycle_stage: active
+run_id: d6f946e14c884edea6d3e3057b111abd
+run_name: SVM_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778231645286
+status: 3
+tags: []
+user_id: ascom
